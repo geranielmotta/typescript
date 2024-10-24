@@ -14,4 +14,5 @@ O projeto contará com o desenvolvimento de:
 - Métodos estáticos;
 - Herança de classes;
 - Decorators de validação.
+  
 ![Captura de Tela 2024-10-24 às 09 53 27](https://github.com/user-attachments/assets/cf0ef63b-202f-45e5-b553-02f57a999395)
